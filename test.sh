@@ -1,1 +1,1 @@
-echo "dhamuq"
+echo "dhamu"
